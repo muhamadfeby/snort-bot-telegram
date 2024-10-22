@@ -14,7 +14,7 @@ token="AAHX2z4uPaEtR7K7-2tsuS1CfjSKAFtciOo"
 #kirim
 function sendAlert
 {
-        curl -s -F chat_id=$chat_id -F text="$caption" https://api.telegram.org/bot$token/sendMessage #> /dev/null 2&>1
+        curl -s -F chat_id=$chat_id -F text="$caption" https://api.telegram.org/bot7702018883:AAHX2z4uPaEtR7K7-2tsuS1CfjSKAFtciOo/sendMessage #> /dev/null 2&>1
 }
 
 #Monitoring Server
