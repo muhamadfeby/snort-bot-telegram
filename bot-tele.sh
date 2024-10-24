@@ -8,8 +8,8 @@ logs=/home/febymf/log-tele.txt
 msg_caption=/tmp/telegram_msg_caption.txt
 
 #Chat ID dan bot token Telegram
-chat_id="7702018883"
-token="AAHX2z4uPaEtR7K7-2tsuS1CfjSKAFtciOo"
+chat_id="7505741423"
+token="AAEkGptxoOrpYZ4mgXM1OUsBcMi-NXbk7XE"
 
 #kirim
 function sendAlert
